@@ -133,7 +133,6 @@ class Program
             }
             else temp[j++] = animals[i];
         }
-        //animals = temp;
         return temp;
     }
     static void Main()
